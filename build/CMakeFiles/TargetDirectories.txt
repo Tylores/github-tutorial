@@ -1,0 +1,3 @@
+F:/Dev/github-tutorial/build/CMakeFiles/ALL_BUILD.dir
+F:/Dev/github-tutorial/build/CMakeFiles/ZERO_CHECK.dir
+F:/Dev/github-tutorial/build/src/CMakeFiles/app.dir
